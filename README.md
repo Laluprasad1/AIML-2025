@@ -5,4 +5,4 @@
 
 ## Lab Code Notebooks
 1. [Lab 01](https://github.com/Laluprasad1/AIML-2025/blob/main/Lab01_AIML.ipynb)
-2. [lAB 02]()
+2. [LAB 02](https://github.com/Laluprasad1/AIML-2025/blob/main/Lab02_AIML.ipynb)
